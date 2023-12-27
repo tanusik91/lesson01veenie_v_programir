@@ -18,3 +18,7 @@ double pr3=i1*d1;
 Console.WriteLine(pr1);
 Console.WriteLine(pr2);
 Console.WriteLine(pr3);
+int q=i1/i2;
+Console.WriteLine(q);
+double q2=i1/d1;
+Console.WriteLine(q2);
